@@ -166,7 +166,8 @@ const TALENT_QUESTIONS = {
         "Tell me about a difficult decision you made as a leader.",
         "How do you motivate and inspire others?",
         "Describe your leadership style.",
-        "What did you learn from a leadership failure?"
+        "What did you learn from a leadership failure?",
+       "Who do you look up to?"
     ],
     
     "NPCC": [
