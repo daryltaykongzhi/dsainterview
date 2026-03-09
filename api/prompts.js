@@ -4,18 +4,16 @@
 
 // General questions asked across all DSA interviews
 const GENERAL_QUESTIONS = [
-    "Tell me about yourself.",
-    "Why do you want to join our school?",
-    "What are your academic strengths and weaknesses?",
-    "How do you balance academics with your talent area?",
-    "What are your goals for the next 2-6 years?",
-    "How will you contribute to our school community?",
-    "Tell me about a time you demonstrated leadership.",
-    "Describe a challenge you faced and how you overcame it.",
-    "How do you handle failure or setbacks?",
-    "What motivates you to keep improving?",
-    "Tell me about working in a team.",
-    "What do you know about our school's culture and values?"
+   "Tell me more about yourself",
+"What are your strengths and weaknesses",
+"What is your biggest life achievement?",
+"Why should we pick you over other applicants?",
+"What can you contribute to our school's (CCA)",
+"Why did you pick our schools's (CCA / Subject stream)",
+"If you got an offer from another institution, which offer would you choose and why",
+"What do you think contributed to your grades in your past exams?",
+"Do you think you will be able to manage your time in coping as a JC student and with your intensive CCA schedules? If so, how?",
+"What are your aspirations after joining (jc)?",
 ];
 
 // Talent-specific questions by area
